@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Crockery/static/css/main.7be0d2bb.css",
-    "main.js": "/Crockery/static/js/main.4f381b7d.js",
+    "main.css": "/Crockery/static/css/main.e624350d.css",
+    "main.js": "/Crockery/static/js/main.689f837e.js",
     "static/js/787.633816a4.chunk.js": "/Crockery/static/js/787.633816a4.chunk.js",
     "static/media/bg4.png": "/Crockery/static/media/bg4.1ef0e80101055d8f44c5.png",
     "static/media/mobile3.jpeg": "/Crockery/static/media/mobile3.f5176f943710dc21b805.jpeg",
@@ -18,12 +18,12 @@
     "static/media/item1.jpg": "/Crockery/static/media/item1.6e183ed504d31d4697f3.jpg",
     "static/media/item3.jpg": "/Crockery/static/media/item3.e6e28ee1bbe27e891151.jpg",
     "index.html": "/Crockery/index.html",
-    "main.7be0d2bb.css.map": "/Crockery/static/css/main.7be0d2bb.css.map",
-    "main.4f381b7d.js.map": "/Crockery/static/js/main.4f381b7d.js.map",
+    "main.e624350d.css.map": "/Crockery/static/css/main.e624350d.css.map",
+    "main.689f837e.js.map": "/Crockery/static/js/main.689f837e.js.map",
     "787.633816a4.chunk.js.map": "/Crockery/static/js/787.633816a4.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7be0d2bb.css",
-    "static/js/main.4f381b7d.js"
+    "static/css/main.e624350d.css",
+    "static/js/main.689f837e.js"
   ]
 }
