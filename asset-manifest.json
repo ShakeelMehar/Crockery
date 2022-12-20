@@ -1,29 +1,29 @@
 {
   "files": {
-    "main.css": "/Crockery-Tailwind/static/css/main.7be0d2bb.css",
-    "main.js": "/Crockery-Tailwind/static/js/main.15b8fc7d.js",
-    "static/js/787.633816a4.chunk.js": "/Crockery-Tailwind/static/js/787.633816a4.chunk.js",
-    "static/media/bg4.png": "/Crockery-Tailwind/static/media/bg4.1ef0e80101055d8f44c5.png",
-    "static/media/mobile3.jpeg": "/Crockery-Tailwind/static/media/mobile3.f5176f943710dc21b805.jpeg",
-    "static/media/deal3.jpg": "/Crockery-Tailwind/static/media/deal3.07431e51fa9b0ffef057.jpg",
-    "static/media/deal2.jpeg": "/Crockery-Tailwind/static/media/deal2.afc4d0d98d14233fc73d.jpeg",
-    "static/media/mobile4.jpeg": "/Crockery-Tailwind/static/media/mobile4.bd9f919f30f3a9d0e873.jpeg",
-    "static/media/deal4.jpeg": "/Crockery-Tailwind/static/media/deal4.9259020373231a32c81b.jpeg",
-    "static/media/deal1.jpeg": "/Crockery-Tailwind/static/media/deal1.d821e9767f16bf86cf39.jpeg",
-    "static/media/hero2.jpg": "/Crockery-Tailwind/static/media/hero2.da04e9c343c6270e42ff.jpg",
-    "static/media/hero1.jpg": "/Crockery-Tailwind/static/media/hero1.22ac452f5d44161cbbff.jpg",
-    "static/media/FeedB.jpg": "/Crockery-Tailwind/static/media/FeedB.b2293996ff32f955d83e.jpg",
-    "static/media/item4.jpg": "/Crockery-Tailwind/static/media/item4.6a618feff52417a643f3.jpg",
-    "static/media/item2.jpg": "/Crockery-Tailwind/static/media/item2.dc1242a6206b0beff11d.jpg",
-    "static/media/item1.jpg": "/Crockery-Tailwind/static/media/item1.6e183ed504d31d4697f3.jpg",
-    "static/media/item3.jpg": "/Crockery-Tailwind/static/media/item3.e6e28ee1bbe27e891151.jpg",
-    "index.html": "/Crockery-Tailwind/index.html",
-    "main.7be0d2bb.css.map": "/Crockery-Tailwind/static/css/main.7be0d2bb.css.map",
-    "main.15b8fc7d.js.map": "/Crockery-Tailwind/static/js/main.15b8fc7d.js.map",
-    "787.633816a4.chunk.js.map": "/Crockery-Tailwind/static/js/787.633816a4.chunk.js.map"
+    "main.css": "/Crockery/static/css/main.7be0d2bb.css",
+    "main.js": "/Crockery/static/js/main.4f381b7d.js",
+    "static/js/787.633816a4.chunk.js": "/Crockery/static/js/787.633816a4.chunk.js",
+    "static/media/bg4.png": "/Crockery/static/media/bg4.1ef0e80101055d8f44c5.png",
+    "static/media/mobile3.jpeg": "/Crockery/static/media/mobile3.f5176f943710dc21b805.jpeg",
+    "static/media/deal3.jpg": "/Crockery/static/media/deal3.07431e51fa9b0ffef057.jpg",
+    "static/media/deal2.jpeg": "/Crockery/static/media/deal2.afc4d0d98d14233fc73d.jpeg",
+    "static/media/mobile4.jpeg": "/Crockery/static/media/mobile4.bd9f919f30f3a9d0e873.jpeg",
+    "static/media/deal4.jpeg": "/Crockery/static/media/deal4.9259020373231a32c81b.jpeg",
+    "static/media/deal1.jpeg": "/Crockery/static/media/deal1.d821e9767f16bf86cf39.jpeg",
+    "static/media/hero2.jpg": "/Crockery/static/media/hero2.da04e9c343c6270e42ff.jpg",
+    "static/media/hero1.jpg": "/Crockery/static/media/hero1.22ac452f5d44161cbbff.jpg",
+    "static/media/FeedB.jpg": "/Crockery/static/media/FeedB.b2293996ff32f955d83e.jpg",
+    "static/media/item4.jpg": "/Crockery/static/media/item4.6a618feff52417a643f3.jpg",
+    "static/media/item2.jpg": "/Crockery/static/media/item2.dc1242a6206b0beff11d.jpg",
+    "static/media/item1.jpg": "/Crockery/static/media/item1.6e183ed504d31d4697f3.jpg",
+    "static/media/item3.jpg": "/Crockery/static/media/item3.e6e28ee1bbe27e891151.jpg",
+    "index.html": "/Crockery/index.html",
+    "main.7be0d2bb.css.map": "/Crockery/static/css/main.7be0d2bb.css.map",
+    "main.4f381b7d.js.map": "/Crockery/static/js/main.4f381b7d.js.map",
+    "787.633816a4.chunk.js.map": "/Crockery/static/js/787.633816a4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7be0d2bb.css",
-    "static/js/main.15b8fc7d.js"
+    "static/js/main.4f381b7d.js"
   ]
 }
