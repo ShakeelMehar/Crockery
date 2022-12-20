@@ -1,0 +1,20 @@
+html {
+    background-color: #0f172a;
+    scroll-behavior: smooth;
+}
+.App {
+    text-align: center;
+}
+
+ion-icon {
+    color: white;
+    font-size: 20px;
+}
+
+ion-icon:hover {
+    color: #22d3ee;
+}
+
+#feedImg {
+    color: #22d3ee;
+}
