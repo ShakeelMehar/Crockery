@@ -16,7 +16,7 @@ export default function Contact(props) {
                 <div id="Form" className="flex flex-col gap-4 md:flex-row">
                     <div
                         id="Left-Side"
-                        className="gap-[1.13rem] w-[26rem] justify-center items-center flex flex-col">
+                        className="gap-[1.13rem] w-full sm:w-[24rem] justify-center items-center flex flex-col">
                         <input
                             type="text"
                             id="first_name"

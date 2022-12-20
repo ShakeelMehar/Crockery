@@ -8,10 +8,10 @@ export default function About(props) {
             className="w-full p-6 my-12 duration-300 border shadow-inner hover:shadow-cyan-500/50 border-cyan-600">
             <div
                 id="About-Inner"
-                className="flex flex-col-reverse items-center justify-between w-full px-4 md:flex-row">
+                className="flex flex-col-reverse items-center justify-between w-full md:flex-row">
                 <div
                     id="Left-Text"
-                    className="w-[30rem] space-y-6 md:w-[40rem] px-6 md:px-2 ">
+                    className="w-full space-y-6 md:w-[40rem] px-6 md:px-2 ">
                     <h1 className="m-auto text-4xl font-semibold lg:text-5xl text-cyan-500">
                         About Us
                     </h1>

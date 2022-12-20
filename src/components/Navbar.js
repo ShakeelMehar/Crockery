@@ -28,7 +28,7 @@ export default function Navbar(props) {
                 <div className="hidden h-6 space-x-6 lg:flex lg:space-x-10 xl:space-x-12">
                     <a
                         className="text-white duration-75 hover:border-b-2 hover:border-cyan-500"
-                        href="App.js">
+                        href="https://shakeelmehar.github.io/Crockery">
                         Home
                     </a>{" "}
                     <a
